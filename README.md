@@ -9,10 +9,9 @@ Site maintained by: @Lucid-Duck
 For companies, organizations or individuals seeking an engineer to do professional contract work:
 
 ```
-Contract work in Linux kernel driver development, reverse
-engineering, binary analysis, and wireless security research.
-Email: lucid_duck@justthetip.ca
-github: @Lucid-Duck
+Contract work: Linux wireless drivers. Lab testing, patches, and ongoing support.
+lucid_duck@justthetip.ca
+https://github.com/Lucid-Duck
 ```
 
 Note: Please use `Issues` to post problems, ask questions and read news.
