@@ -55,11 +55,11 @@ Note: Please start by reading the first menu item, USB WiFi adapter information 
 
 -----
 
-Please report broken links or inaccurate information in any of the documents.
+Please report broken links or inaccurate information in any of the linked documents.
 
 -----
 
-- 45,917 views sitewide (github.com/morrownr) over the 2 weeks ended on 20231221 (Thank you!)
+- Averaging 47,230 views sitewide (github.com/morrownr) per month as of 09-01-2026 (Thank you!)
 
 -----
 
